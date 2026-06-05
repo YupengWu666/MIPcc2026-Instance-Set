@@ -12,7 +12,7 @@ This repository contains 50 compressed MPS instances from the PaNGEA project.
 Clone the repository:
 
 ```bash
-git clone git@github.com:YupengWu666/pangea-instances.git
+git clone https://github.com/YupengWu666/MIPcc2026-Instance-Set.git
 ```
 
 Or download a single instance from the GitHub web interface.
